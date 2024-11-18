@@ -3,7 +3,6 @@
 👀 About Me:
 
 I'm a passionate Computer Science student currently pursuing my studies at the University of Urbino, focusing on Informatics Science and Technology.
-
 Outside of coding 😃, I love staying active with my other passions:
 🏃 Running: I participate in half-marathons and I enjoy it, 
 ⚽ Soccer: I'm a big fan of the sport as a player and spectator.
@@ -11,24 +10,17 @@ Outside of coding 😃, I love staying active with my other passions:
 🌱 Currently Learning:
 
 I’m currently studying different programming paradigms:
-
   Procedural programming with C.
-  
   Object-oriented programming with Java.
-  
   Soon, I’ll start learning front-end tools like HTML, CSS, and JavaScript.
 
 💞️ I’m looking to collaborate on:
 
 .......
   
-📫 How to reach me:
+📫 How to reach me: GitHub: @andrymarchio13
 
-  GitHub: @andrymarchio13
-
-😄 Pronouns: 
-
-  Marchio
+😄 Pronouns: Marchio
   
 <!---
 andrymarchio13/andrymarchio13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
