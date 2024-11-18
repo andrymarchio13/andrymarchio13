@@ -14,9 +14,7 @@ I’m currently studying different programming paradigms:
   Object-oriented programming with Java.
   Soon, I’ll start learning front-end tools like HTML, CSS, and JavaScript.
 
-💞️ I’m looking to collaborate on:
-
-.......
+💞️ I’m looking to collaborate on: .......
   
 📫 How to reach me: GitHub: @andrymarchio13
 
