@@ -1,5 +1,5 @@
 👋 Hi, I’m @andrymarchio13
-👀 About Me:
+-👀 About Me:
 I'm a passionate Computer Science student currently pursuing my studies at the University of Urbino, focusing on Informatics Science and Technology.
 Outside of coding 😃, I love staying active with my other passions:
   🏃 Running: I participate in half-marathons and I enjoy it.
