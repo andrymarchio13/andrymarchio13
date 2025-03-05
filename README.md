@@ -2,10 +2,9 @@
 
 👀 About Me:
 
-I'm a passionate Computer Science student currently pursuing my studies at the University of Urbino, focusing on Informatics Science and Technology.
-Outside of coding 😃, I love staying active with my other passions:
-🏃 Running: I participate in half-marathons and I enjoy it, 
-⚽ Soccer: I'm a big fan of the sport as a player and spectator.
+I’m a Computer Science student at the University of Urbino, passionate about programming and technology.
+🏃 Running: I participate in half-marathons, and I enjoy it, 
+⚽ Soccer: As a player and spectator, I'm a big fan of the sport.
 
 🌱 Currently Learning:
 
