@@ -1,5 +1,43 @@
 # 💫 About Me:
-👋 Ciao! Sono Andrea<br>🎓 Studente italiano appassionato di informatica e del mondo della programmazione.<br>💻 Ho intrapreso un percorso di studio focalizzato su vari linguaggi e tecnologie, sperimentando e sviluppando progetti in diversi ambiti.<br><br>🧠 Competenze tecniche<br>🌐 Sviluppo Web: HTML, CSS, JavaScript<br><br>💻 Programmazione sistemistica e procedurale: C, Bash / Linux<br><br>☕ Programmazione ad oggetti: Java<br><br>🌍 Sviluppo lato server: PHP<br><br>🔧 Ambienti di sviluppo preferiti<br>VS Code<br><br>Eclipse<br><br>NetBeans<br><br>IntelliJ IDEA<br><br>🚀 Attualmente sto:<br>Studiando e creando progetti universitari<br><br>Migliorando le mie abilità nel design di interfacce web e API RESTful<br><br>Esplorando il mondo open source e contribuendo su GitHub<br><br>📈 Obiettivi futuri<br>Diventare uno sviluppatore full-stack<br><br>Collaborare a progetti open source<br><br>Approfondire le tecnologie DevOps e cloud computing<br><br>📬 Contattami<br>📧 Email: (aggiungi la tua email se vuoi)<br><br>🌐 Sito personale / Portfolio: (aggiungi link se esiste)<br><br>
+👋 Hi! I'm **Andrea**  
+🎓 An Italian student passionate about **computer science** and the world of programming.  
+💻 I'm currently pursuing a study path focused on various programming languages and technologies, experimenting and developing projects in multiple areas.
+
+---
+
+## 🧠 Technical Skills  
+- 🌐 **Web Development**: HTML, CSS, JavaScript  
+- 💻 **Systems and Procedural Programming**: C, Bash / Linux  
+- ☕ **Object-Oriented Programming**: Java  
+- 🌍 **Server-Side Development**: PHP  
+
+---
+
+## 🔧 Preferred Development Environments  
+- Visual Studio Code  
+- Eclipse  
+- NetBeans  
+- IntelliJ IDEA  
+
+---
+
+## 🚀 Currently Working On  
+- University-related projects and coursework  
+- Improving my skills in web interface design and RESTful API development  
+- Exploring the open source world and contributing on GitHub  
+
+---
+
+## 📈 Future Goals  
+- Become a **full-stack developer**  
+- Collaborate on **open source projects**  
+- Deepen my knowledge of **DevOps** and **cloud computing** technologies  
+
+---
+
+## 📬 Contact Me  
+📧 Email: *add your email here*  
+🌐 Website / Portfolio: *add your link here*  
 
 
 ## 🌐 Socials:
@@ -21,4 +59,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=andrymarchio13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
