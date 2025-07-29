@@ -5,14 +5,6 @@
 
 ---
 
-## 🔧 Preferred Development Environments  
-- Visual Studio Code  
-- Eclipse  
-- NetBeans  
-- IntelliJ IDEA  
-
----
-
 ## 🚀 Currently  
 📚 Attending university at Urbino, majoring in Computer Science and Technology  
 
